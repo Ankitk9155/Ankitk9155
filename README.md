@@ -10,16 +10,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-kumar-b70000280" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&style=for-the-badge" alt="LinkedIn" height="35" />
   </a>
-  <a href="https://x.com/" target="_blank">
+  <a href="https://x.com/KumarAn90305815?t=3LPkZFNGYX5oQ2nxMTxdww&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" alt="Twitter" height="35" />
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://instagram.com/kumar_91554" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" alt="Instagram" height="35" />
   </a>
-  <a href="mailto:example@gmail.com" target="_blank">
+  <a href="mailto:ankitk61372@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" height="35" />
   </a>
 </p>
